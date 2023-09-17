@@ -8,11 +8,12 @@ main{
     flex-direction: row;
     flex: auto;
 }
-article{
+article {
     flex: 2;
-    overflow-y: auto;
 }
-aside{
+aside {
     flex: 1;
+}
+article , aside{
     overflow-y: auto;
 }
