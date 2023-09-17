@@ -1,18 +1,23 @@
 body, main {
     display: flex;
+    background-color: rgb(54, 52, 52);
 }
 body{
     flex-direction: column;
+    background-color: blanchedalmond;
 }
 main{
     flex-direction: row;
     flex: auto;
+    background-color: blue;
 }
 article {
     flex: 2;
+    background-color: beige;
 }
 aside {
     flex: 1;
+    background-color: rgb(113, 107, 121);
 }
 article , aside{
     overflow-y: auto;
