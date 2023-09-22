@@ -1,1 +1,1 @@
-This is css_advanced and i will put a picture of me <img src="me.jpg"
+This is css_advanced and i will put a picture of me <img src="me.jpg" alt="a picture of my my face">
