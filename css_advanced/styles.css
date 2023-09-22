@@ -1,0 +1,15 @@
+header{
+    background-color: grey;
+    height: 29.46px;
+    width: 1103.41px;
+}
+header h1{
+    color: grey;
+    font-size: 15;
+}
+<!--1 Styling-->
+section:first-of-type{
+    background-color: grey;
+    height: 1440px;
+    width: 1093px;
+}
